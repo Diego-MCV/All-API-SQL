@@ -102,10 +102,15 @@ Authorization: Bearer TU_TOKEN
 Crear archivo `.env` en la raíz:
 
 DB_USER=postgres
+
 DB_HOST=localhost
+
 DB_NAME=todo_db
+
 DB_PASSWORD=tu_password
+
 DB_PORT=5432
+
 JWT_SECRET=tu_secreto
 
 ## 📂 Estructura del proyecto
